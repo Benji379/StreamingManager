@@ -1,0 +1,30 @@
+{
+  "user" : {
+    "IP" : "181.65.252.67",
+    "host":"DESKTOP-1S9PGNA",
+    "usuario":"Benji379",
+    "token":"2345gffd-fd-df434"
+  },
+  "color" : {
+    "principal1" : "#000000",
+    "principal2" : "#000000",
+    "principal3" : "#000000",
+    "text1" : "#000000",
+    "text2" : "#ffffff",
+    "text3" : "#ffffff",
+    "background1" : "",
+    "background2" : "",
+    "background3" : "",
+    "button1":"",
+    "button2":"",
+    "button3":""
+  },
+  "correo": {
+    "direccion" : "benj@gmail.com",
+    "token":"322klmnrjk"
+  },
+  "group" : {
+    "token-group" : "saklasdkasd-daskjdsf8uu"
+  },
+  "sesion":0
+}

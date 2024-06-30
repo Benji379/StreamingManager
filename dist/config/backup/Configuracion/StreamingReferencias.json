@@ -1,0 +1,98 @@
+{
+  "Netflix":{
+    "url":"https://www.netflix.com",
+  "icono":"https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png"
+  },
+  "HBO Max":{
+    "url":"https://www.max.com",
+    "icono":"https://www.max.com/favicon.ico"
+  },
+  "Disney+":{
+    "url":"https://www.disneyplus.com",
+    "icono":"https://www.disneyplus.com/favicon.ico"
+  },
+  "Star+":{
+    "url":"https://www.starplus.com",
+    "icono":"https://www.starplus.com/favicon.ico"
+  },
+  "Amazon Prime Video":{
+    "url":"https://www.primevideo.com",
+    "icono":"https://m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/mstile-70x70.png"
+  },
+  "Paramount+":{
+    "url":"https://www.paramountplus.com",
+    "icono":"https://www.paramountplus.com/favicon.ico"
+  },
+  "Vix":{
+    "url":"https://vix.com",
+    "icono":"https://vix.com/favicon.ico"
+  },
+  "Spotify":{
+    "url":"https://open.spotify.com",
+    "icono":"https://open.spotify.com/favicon.ico"
+  },
+  "YouTube":{
+    "url":"https://www.youtube.com",
+    "icono":"https://www.youtube.com/s/desktop/661c298b/img/favicon_144x144.png"
+  },
+  "Hulu":{
+    "url":"https://www.hulu.com",
+    "icono":"https://www.hulu.com/favicon.ico"
+  },
+  "Canva Pro":{
+    "url":"https://www.canva.com",
+    "icono":"https://static.canva.com/static/images/apple-touch-120x120-1.png"
+  },
+  "Studocu":{
+    "url":"https://studocu.com",
+    "icono":"https://d20ohkaloyme4g.cloudfront.net/img/apple/apple-touch-icon-180x180.png"
+  },
+  "Duolingo":{
+    "url":"https://es.duolingo.com",
+    "icono":"https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png"
+  },
+  "Deezer":{
+    "url":"https://www.deezer.com",
+    "icono":"https://e-cdn-files.dzcdn.net/cache/images/common/favicon/favicon-144x144.07ae81558433f1009494.png"
+  },
+  "Claro Video":{
+    "url":"https://www.clarovideo.com",
+    "icono":"https://scontent.flim13-1.fna.fbcdn.net/v/t1.6435-9/68673746_3143185035722273_8472978925973143552_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=oHi2jFmANCYQ7kNvgGF8CXy&_nc_ht=scontent.flim13-1.fna&oh=00_AfA_5eavGs-tRGmi_9TvrfND7Dq0XuzdVE8ZUFl516IHbQ&oe=66637F7D"
+  },
+  "Movistar Play":{
+    "url":"https://tv.movistar.com",
+    "icono":"https://tv.movistar.com.pe/assets/apple-touch-icon-180x180.png"
+  },
+  "Directv":{
+    "url":"https://www.directv.com",
+    "icono":"https://www.directv.com/favicon.ico"
+  },
+  "Chat GPT4":{
+    "url":"https://chatgpt.com",
+    "icono":"https://miro.medium.com/v2/resize:fit:578/1*StV4tcnCtZ92z2rqe4LI8A.jpeg"
+  },
+  "Apple Music":{
+    "url":"https://music.apple.com",
+    "icono":"https://music.apple.com/assets/favicon/favicon-180.png"
+  },
+  "Universal+":{
+    "url":"https://universalplus.com",
+    "icono":"https://universalplus.com/favicon.ico"
+  },
+  "NBA":{
+    "url":"https://www.nba.com",
+    "icono":"https://www.nba.com/apple-touch-icon.png"
+  },
+  "Onlyfans":{
+    "url":"https://onlyfans.com/",
+    "icono":"https://static.onlyfans.com/theme/onlyfans/spa/icons/apple-touch-icon.png?rev=202405071145-50e58b504f"
+  },
+  "ESPN":{
+    "url":"https://www.espn.com",
+    "icono":"https://www.espn.com/favicon.ico"
+  },
+  "Pornhub":{
+    "url":"https://es.pornhub.com/",
+    "icono":"https://logosarchive.com/wp-content/uploads/2021/09/Pornhub-logo-circle.png"
+  }
+}
